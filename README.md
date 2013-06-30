@@ -2,10 +2,10 @@ List of list in C++
 ===================
 
 * This program demonstrates how linked list of linked list work in C++
-* No STL classes have been used in this program.
-* As a result the program displays numbers from 0-99, where numbers 0-9 are part
+* No STL classes used in this program.
+* As a result, the program displays numbers from 0-99, where numbers 0-9 are part
 of first list and then each number has its own list which is 'that number + 10' 
-* (Compiled this program with Borland C++ compiler)
+* (Tested the program using Borland C++ compiler, and it works perfectly)
 
 
 Output of the program:
